@@ -47,33 +47,7 @@ This repository walks through the full supervised learning workflow: data cleani
 5. **Evaluation**: compare models using the metrics above
 6. **Deployment**: serve the best model through a Streamlit app
 
-## 📊 Results
 
-| Project | Best model | Key metric |
-|---------|-----------|------------|
-| [Regression project] | [Model] | [e.g. R² = 0.xx] |
-| [Classification project] | [Model] | [e.g. F1 = 0.xx] |
-| [Time series project] | [Model] | [e.g. MAPE = x%] |
-
-## ⚙️ Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch the Streamlit app
-streamlit run app/app.py
-```
-
-## 🔍 Key Takeaways
-
-- [One insight from your regression work]
-- [One insight from your classification work]
-- [One insight from your time series work]
 
 ## 👤 Author
 
